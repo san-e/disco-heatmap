@@ -1,5 +1,5 @@
 html {
-  background-image: url(https://space.discoverygc.com/navmap/images/blue_space_with_planets_by_darkdissolution-updCont.jpg);
+  background-image: url(../img/blue_space_with_planets_by_darkdissolution-updCont.avif);
   background-size: cover;
   background-repeat: no-repeat;
   background-color: rgb(9, 15, 24);
@@ -21,7 +21,7 @@ html {
 .grid {
   width: 100%;
   height: 100%;
-  background: url("https://space.discoverygc.com/navmap/images/SiriusMap.jpg")
+  background: url(../img/SiriusMap.avif)
     black;
   background-size: cover !important;
 }
@@ -37,6 +37,7 @@ html {
   height: 100%;
   width: 100%;
   z-index: 999;
+  opacity: 90%;
   pointer-events: none;
 }
 

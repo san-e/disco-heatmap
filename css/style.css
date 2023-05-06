@@ -1,0 +1,159 @@
+html {
+  background-image: url(https://space.discoverygc.com/navmap/images/blue_space_with_planets_by_darkdissolution-updCont.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgb(9, 15, 24);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.mapContainer {
+  position: absolute;
+  top: 2.4em;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.grid {
+  width: 100%;
+  height: 100%;
+  background: url("https://space.discoverygc.com/navmap/images/SiriusMap.jpg")
+    black;
+  background-size: cover !important;
+}
+
+.grid .darkOverlay {
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.heatmap {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: 999;
+  pointer-events: none;
+}
+
+.systemContainer {
+  height: 75%;
+  width: 75%;
+  position: absolute;
+  margin-top: 50%;
+  margin-left: 50%;
+  color: white;
+  font-family: "Agency FB", "Oswald", sans-serif;
+}
+
+.connections {
+  height: 75%;
+  width: 75%;
+  position: absolute;
+  margin-top: 50%;
+  margin-left: 50%;
+  color: white;
+  font-family: "Agency FB", "Oswald", sans-serif;
+}
+
+.map {
+  position: relative;
+  height: 52.5em;
+  width: 52.5em;
+  margin: 0 auto;
+  border: 0.22em rgb(25, 47, 96) solid;
+  box-sizing: border-box;
+  box-shadow: 0 0 1em 0.1em rgb(25, 47, 96);
+  border-radius: 0em;
+  background-color: rgb(30, 167, 198);
+  overflow: hidden;
+  overflow: -moz-hidden-unscrollable;
+  overflow: -webkit-hidden-unscrollable;
+  /* assign to paint layer */
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Chrome/Safari/Opera */
+  -khtml-user-select: none; /* Konqueror */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE/Edge */
+  user-select: none;
+}
+
+.systemTitle {
+  position: absolute;
+  bottom: 0.3em;
+  color: white;
+  text-align: center;
+  width: 100%;
+  font-family: "Agency FB", "Oswald", sans-serif;
+  font-size: 3em;
+  padding: 0;
+  margin: 0;
+  color: rgb(135, 195, 224);
+}
+
+.system {
+  height: 0.65em;
+  width: 0.65em;
+  background-color: rgb(36, 36, 36);
+  border: 0.15em solid;
+  border-radius: 100%;
+  margin-top: -0.325em;
+  margin-left: -0.325em;
+  z-index: 5;
+  display: flex;
+  justify-content: center;
+}
+.system.li {
+  border-color: #2299f5;
+}
+
+.systemLabel {
+  color: white;
+  font-family: Agency FB;
+  display: inline-block;
+  position: absolute;
+  top: 1em;
+  /*left: -1em;*/
+  white-space: nowrap;
+  z-index: 7;
+  text-shadow: 0em 0em 0.3em black !important;
+  font-size: 0.8em;
+}
+
+.highlighted {
+  filter: drop-shadow(0em 0em 0.1em rgba(255, 255, 255, 0.5)) brightness(1.1)
+    drop-shadow(0em 0em 0.15em orange);
+}
+
+.systemConnection {
+  z-index: 4;
+  margin-left: 0.125em;
+  margin-top: 0.125em;
+}
+
+.systemConnection div {
+  width: 0.125em;
+  background-color: rgba(143, 192, 255, 0.5);
+  margin-left: -0.0625em;
+}
+
+.systemConnection.oneWayConnection div::after {
+  content: "";
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+  position: absolute;
+  border-bottom: 0.2em solid rgba(69, 150, 255, 0.9);
+  border-left: 0.2em solid rgba(69, 150, 255, 0.9);
+  height: 0.3em;
+  width: 0.3em;
+  bottom: 50%;
+  display: block;
+  margin-bottom: -0.3em;
+  margin-left: -0.175em;
+}

@@ -29,7 +29,11 @@ html {
 .grid .darkOverlay {
   height: 100%;
   width: 100%;
+  top: -0%;
+  position: absolute;
   background-color: rgba(0, 0, 0, 0.4);
+  pointer-events: none;
+  z-index: 0;
 }
 
 .heatmap {
@@ -63,14 +67,14 @@ html {
 
 .map {
   position: relative;
-  height: 52.5em;
-  width: 52.5em;
+  height: 57em;
+  width: 57em;
   margin: 0 auto;
   border: 0.22em rgb(25, 47, 96) solid;
   box-sizing: border-box;
   box-shadow: 0 0 1em 0.1em rgb(25, 47, 96);
   border-radius: 0em;
-  background-color: rgb(30, 167, 198);
+  background-color: rgb(4, 4, 4);
   overflow: hidden;
   overflow: -moz-hidden-unscrollable;
   overflow: -webkit-hidden-unscrollable;
@@ -96,6 +100,7 @@ html {
   padding: 0;
   margin: 0;
   color: rgb(135, 195, 224);
+  z-index: 1;
 }
 
 .system {
@@ -140,8 +145,18 @@ html {
 
 .systemConnection div {
   width: 0.125em;
-  background-color: rgba(143, 192, 255, 0.5);
+  
   margin-left: -0.0625em;
+}
+
+.jgConnection {
+  /*box-shadow: 0px 0px 0.1em 0.1em rgba(69, 150, 255, 0.5);*/
+  background-color: rgba(69, 150, 255, 0.9);
+}
+
+.jhConnection {
+  /* box-shadow: 0px 0px 0.1em 0.1em rgba(143, 192, 255, 0.5); */
+  background-color: rgba(143, 192, 255, 0.404);
 }
 
 .systemConnection.oneWayConnection div::after {
@@ -157,4 +172,11 @@ html {
   display: block;
   margin-bottom: -0.3em;
   margin-left: -0.175em;
+}
+
+#timestamp {
+  color: white;
+  font-family: Agency FB;
+  position: absolute;
+  bottom: 1%;
 }

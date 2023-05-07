@@ -1,5 +1,5 @@
 import "./heatmap.js";
-import "./panzoom.min.js";
+//import "./panzoom.min.js";
 
 function posToPercentage(pos) {
   return (pos * 6.6 - 50).toFixed(2);
@@ -2564,16 +2564,16 @@ const players = [
   }
 ];
 
-const elem = document.querySelector(".grid");
-const panzoom = Panzoom(elem, {
-  maxScale: 5,
-  minScale: 1,
-  panOnlyWhenZoomed: false,
-  canvas: true,
-  contain: "outside"
-});
+// const elem = document.querySelector(".grid");
+// const panzoom = Panzoom(elem, {
+//   maxScale: 5,
+//   minScale: 1,
+//   panOnlyWhenZoomed: false,
+//   canvas: true,
+//   contain: "outside"
+// });
 
-elem.parentElement.addEventListener("wheel", panzoom.zoomWithWheel);
+// elem.parentElement.addEventListener("wheel", panzoom.zoomWithWheel);
 
 function highlight(element) {
   var className = element.className;

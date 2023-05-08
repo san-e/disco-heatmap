@@ -8827,6 +8827,15 @@ const players = [
 
 // elem.parentElement.addEventListener("wheel", panzoom.zoomWithWheel);
 
+window.intervall = 1_000;
+const input = document.querySelector("#deine-mutter");
+input.value = 1_000;
+input.onchange = function() {
+  window.intervall = input.value;
+  clearInterval(update);
+  setInterval(updateHeatmap, window.intervall)
+};
+
 function highlight(element) {
   var className = element.className;
   element.className = className + " highlighted";
@@ -9010,5 +9019,5 @@ var heatmapInstance = h337.create({
 });
 
 updateHeatmap();
-setInterval(updateHeatmap, 1000);
+var update = setInterval(updateHeatmap, window.intervall);
 

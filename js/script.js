@@ -8833,7 +8833,7 @@ input.value = 1_000;
 input.onchange = function() {
   window.intervall = input.value;
   clearInterval(update);
-  setInterval(updateHeatmap, window.intervall)
+  update = setInterval(updateHeatmap, window.intervall)
 };
 
 function highlight(element) {

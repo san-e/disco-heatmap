@@ -14,10 +14,10 @@ async function getJsonFile(url) {
 
 
 
-const systemArray = await getJsonFile("../data/systemArray.json");
-const oorpSystems = await getJsonFile("../data/oorpSystems.json");
-const sysNameToNickname = await getJsonFile("../data/sysNameToNickname.json");
-const players = await getJsonFile("../data/playerlist.json");
+const systemArray = await getJsonFile("../static/data/systemArray.json");
+const oorpSystems = await getJsonFile("../static/data/oorpSystems.json");
+const sysNameToNickname = await getJsonFile("../static/data/sysNameToNickname.json");
+const players = await getJsonFile("../static/data/playerlist.json");
 
 // const elem = document.querySelector(".grid");
 // const panzoom = Panzoom(elem, {

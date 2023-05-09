@@ -11,8 +11,7 @@ def index():
 
 @app.route("/playerAPI")
 def api():
-    def getPlayerlist():
-            print("mogus")
+    def scrapePlayerlist():
             url = "https://discoverygc.com/forums/api_interface.php?action=players_online"
             cookies = {
             "mybbuser": os.environ.get("mybbuser"),
@@ -24,4 +23,4 @@ def api():
                 playerJSON = r.text.split('var json_data = JSON.parse("')[1].split('");</script>')[0].replace("\\", "")
             return json.loads(playerJSON)
     
-    return getPlayerlist()
+    return scrapePlayerlist()

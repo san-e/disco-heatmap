@@ -1,0 +1,7658 @@
+[
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "4h50",
+       "name": "Loki",
+       "system": "Honshu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "3h47",
+       "name": "Bumeater.Billy",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h23",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h21",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h20",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h19",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Omicron Mu",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "1h13",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h07",
+       "name": "Alfred",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h01",
+       "name": "[GN]GNS-Triumph",
+       "system": "Lorraine",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "52m",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "47m",
+       "name": "~minus~",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "46m",
+       "name": "Cu_Faoil",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "36m",
+       "name": "[GN]GNS-Tourriers",
+       "system": "Lorraine",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "34m",
+       "name": "Wolverine",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "34m",
+       "name": "GMS|Gallia.Light",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "25m",
+       "name": "Bumblebee",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "24m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "24m",
+       "name": "1st|LNS-Praetorian",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "24m",
+       "name": "Tekir",
+       "system": "Sigma-13",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "23m",
+       "name": "HRZ~Amnestie",
+       "system": "California",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "20m",
+       "name": "-=JoSch=-",
+       "system": "Sigma-13",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "19m",
+       "name": "Shiller.Alpenfall",
+       "system": "Omicron Psi",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "17m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "15m",
+       "name": "KTS-Kaulitz",
+       "system": "New London",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "14m",
+       "name": "Gejatra_Logistics",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "12m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "9m",
+       "name": "Slow.Draw",
+       "system": "Coronado",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "8m",
+       "name": "[RM]Bmn-Schulz.Niklas",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "6m",
+       "name": ".:j:.Deadpool",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "3m",
+       "name": "1st|LNS-Kailu",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "3m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Frankfurt",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "3m",
+       "name": "Clockwork.Wizards",
+       "system": "Tau-23",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "3m",
+       "name": "Taraern",
+       "system": "Colorado",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "2m",
+       "name": "Nexen",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "2m",
+       "name": "ORDER!",
+       "system": "Omicron Mu",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "2m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "2m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "1m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1m",
+       "name": ".:j:.-La.Punta",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "0m",
+       "name": "1st|PEGASUS-Charlie5",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "0m",
+       "name": "K.Duran",
+       "system": "Pennsylvania",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "0m",
+       "name": "DTR-CNSu003EEl.Arca",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      }
+     ],
+     "timestamp": "2023-05-07T18:40:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "4h51",
+       "name": "Loki",
+       "system": "Honshu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "3h48",
+       "name": "Bumeater.Billy",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h24",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h22",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h21",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h20",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Omicron Mu",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "1h14",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h08",
+       "name": "Alfred",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h02",
+       "name": "[GN]GNS-Triumph",
+       "system": "Lorraine",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "53m",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "48m",
+       "name": "~minus~",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "47m",
+       "name": "Cu_Faoil",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "37m",
+       "name": "[GN]GNS-Tourriers",
+       "system": "Lorraine",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "35m",
+       "name": "Wolverine",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "35m",
+       "name": "GMS|Gallia.Light",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "26m",
+       "name": "Bumblebee",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "25m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "25m",
+       "name": "1st|LNS-Praetorian",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "25m",
+       "name": "Tekir",
+       "system": "Sigma-13",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "24m",
+       "name": "HRZ~Amnestie",
+       "system": "California",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "21m",
+       "name": "-=JoSch=-",
+       "system": "Sigma-13",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "20m",
+       "name": "Shiller.Alpenfall",
+       "system": "Omicron Psi",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "18m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "16m",
+       "name": "KTS-Kaulitz",
+       "system": "New London",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "15m",
+       "name": "Gejatra_Logistics",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "13m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "10m",
+       "name": "Slow.Draw",
+       "system": "Coronado",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "9m",
+       "name": "[RM]Bmn-Schulz.Niklas",
+       "system": "Stuttgart",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "7m",
+       "name": ".:j:.Deadpool",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "4m",
+       "name": "1st|LNS-Kailu",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "4m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Frankfurt",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "4m",
+       "name": "Clockwork.Wizards",
+       "system": "Tau-23",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "4m",
+       "name": "Taraern",
+       "system": "Colorado",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "3m",
+       "name": "Nexen",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "3m",
+       "name": "ORDER!",
+       "system": "Omicron Mu",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "3m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "3m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "2m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "2m",
+       "name": ".:j:.-La.Punta",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "1m",
+       "name": "1st|PEGASUS-Charlie5",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1m",
+       "name": "K.Duran",
+       "system": "Inverness",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "1m",
+       "name": "DTR-CNSu003EEl.Arca",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      }
+     ],
+     "timestamp": "2023-05-07T18:41:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "4h52",
+       "name": "Loki",
+       "system": "New Tokyo",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "3h49",
+       "name": "Bumeater.Billy",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h25",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h23",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h22",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h21",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Omicron Mu",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "1h15",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h09",
+       "name": "Alfred",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h03",
+       "name": "[GN]GNS-Triumph",
+       "system": "Lorraine",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "54m",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "49m",
+       "name": "~minus~",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "48m",
+       "name": "Cu_Faoil",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "38m",
+       "name": "[GN]GNS-Tourriers",
+       "system": "Lorraine",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "36m",
+       "name": "Wolverine",
+       "system": "Hudson",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "36m",
+       "name": "GMS|Gallia.Light",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "27m",
+       "name": "Bumblebee",
+       "system": "Omicron Rho",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "26m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "26m",
+       "name": "1st|LNS-Praetorian",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "26m",
+       "name": "Tekir",
+       "system": "Sigma-13",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "25m",
+       "name": "HRZ~Amnestie",
+       "system": "California",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "22m",
+       "name": "-=JoSch=-",
+       "system": "Sigma-13",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "21m",
+       "name": "Shiller.Alpenfall",
+       "system": "Omicron Epsilon",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "19m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "17m",
+       "name": "KTS-Kaulitz",
+       "system": "New London",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "16m",
+       "name": "Gejatra_Logistics",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "14m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "11m",
+       "name": "Slow.Draw",
+       "system": "Cortez",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "10m",
+       "name": "[RM]Bmn-Schulz.Niklas",
+       "system": "Stuttgart",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "8m",
+       "name": ".:j:.Deadpool",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "5m",
+       "name": "1st|LNS-Kailu",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "5m",
+       "name": "Gregor_Eisenhorn",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "5m",
+       "name": "Clockwork.Wizards",
+       "system": "Tau-23",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "5m",
+       "name": "Taraern",
+       "system": "Colorado",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "4m",
+       "name": "Nexen",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "4m",
+       "name": "ORDER!",
+       "system": "Omicron Mu",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "4m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "4m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "3m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "3m",
+       "name": ".:j:.-La.Punta",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "2m",
+       "name": "1st|PEGASUS-Charlie5",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "2m",
+       "name": "K.Duran",
+       "system": "Inverness",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "2m",
+       "name": "DTR-CNSu003EEl.Arca",
+       "system": "Omicron Gamma",
+       "region": "South Edge Worlds"
+      }
+     ],
+     "timestamp": "2023-05-07T18:42:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "4h53",
+       "name": "Loki",
+       "system": "New Tokyo",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "3h50",
+       "name": "Bumeater.Billy",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h26",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h24",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h23",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h22",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Omicron Beta",
+       "region": "North Edge Worlds"
+      },
+      {
+       "time": "1h16",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h10",
+       "name": "Alfred",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h04",
+       "name": "[GN]GNS-Triumph",
+       "system": "Lorraine",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "55m",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "50m",
+       "name": "~minus~",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "49m",
+       "name": "Cu_Faoil",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "39m",
+       "name": "[GN]GNS-Tourriers",
+       "system": "Lorraine",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "37m",
+       "name": "Wolverine",
+       "system": "Hudson",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "37m",
+       "name": "GMS|Gallia.Light",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "28m",
+       "name": "Bumblebee",
+       "system": "Omicron Rho",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "27m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "27m",
+       "name": "1st|LNS-Praetorian",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "27m",
+       "name": "Tekir",
+       "system": "Sigma-17",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "26m",
+       "name": "HRZ~Amnestie",
+       "system": "California",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "23m",
+       "name": "-=JoSch=-",
+       "system": "Sigma-13",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "22m",
+       "name": "Shiller.Alpenfall",
+       "system": "Omicron Epsilon",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "20m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "18m",
+       "name": "KTS-Kaulitz",
+       "system": "New London",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "17m",
+       "name": "Gejatra_Logistics",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "15m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "12m",
+       "name": "Slow.Draw",
+       "system": "Cortez",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "11m",
+       "name": "[RM]Bmn-Schulz.Niklas",
+       "system": "Omega-7",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "9m",
+       "name": ".:j:.Deadpool",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "6m",
+       "name": "1st|LNS-Kailu",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "6m",
+       "name": "Gregor_Eisenhorn",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "6m",
+       "name": "Clockwork.Wizards",
+       "system": "Tau-23",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "6m",
+       "name": "Taraern",
+       "system": "Colorado",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "5m",
+       "name": "Nexen",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "5m",
+       "name": "ORDER!",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "5m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "5m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "4m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "4m",
+       "name": ".:j:.-La.Punta",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "3m",
+       "name": "1st|PEGASUS-Charlie5",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "3m",
+       "name": "K.Duran",
+       "system": "Inverness",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "3m",
+       "name": "DTR-CNSu003EEl.Arca",
+       "system": "Omicron Gamma",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "0m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "0m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      }
+     ],
+     "timestamp": "2023-05-07T18:43:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "4h54",
+       "name": "Loki",
+       "system": "New Tokyo",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "3h51",
+       "name": "Bumeater.Billy",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h27",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h25",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h24",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h23",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Omicron Beta",
+       "region": "North Edge Worlds"
+      },
+      {
+       "time": "1h17",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h11",
+       "name": "Alfred",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h05",
+       "name": "[GN]GNS-Triumph",
+       "system": "Lorraine",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "56m",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "51m",
+       "name": "~minus~",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "50m",
+       "name": "Cu_Faoil",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "40m",
+       "name": "[GN]GNS-Tourriers",
+       "system": "Lorraine",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "38m",
+       "name": "Wolverine",
+       "system": "Hudson",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "38m",
+       "name": "GMS|Gallia.Light",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "29m",
+       "name": "Bumblebee",
+       "system": "Omicron Rho",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "28m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "28m",
+       "name": "1st|LNS-Praetorian",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "28m",
+       "name": "Tekir",
+       "system": "Sigma-17",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "27m",
+       "name": "HRZ~Amnestie",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "24m",
+       "name": "-=JoSch=-",
+       "system": "Sigma-13",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "21m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "19m",
+       "name": "KTS-Kaulitz",
+       "system": "Dublin",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "18m",
+       "name": "Gejatra_Logistics",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "16m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "13m",
+       "name": "Slow.Draw",
+       "system": "Cortez",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "12m",
+       "name": "[RM]Bmn-Schulz.Niklas",
+       "system": "Omega-7",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "10m",
+       "name": ".:j:.Deadpool",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "7m",
+       "name": "1st|LNS-Kailu",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "7m",
+       "name": "Gregor_Eisenhorn",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "7m",
+       "name": "Clockwork.Wizards",
+       "system": "Tau-23",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "7m",
+       "name": "Taraern",
+       "system": "Colorado",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "6m",
+       "name": "ORDER!",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "6m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "6m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "5m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "5m",
+       "name": ".:j:.-La.Punta",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "4m",
+       "name": "1st|PEGASUS-Charlie5",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "4m",
+       "name": "DTR-CNSu003EEl.Arca",
+       "system": "Omicron Gamma",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1m",
+       "name": "46th|Callum.Hayes",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "0m",
+       "name": "xenex",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      }
+     ],
+     "timestamp": "2023-05-07T18:44:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "4h55",
+       "name": "Loki",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "3h52",
+       "name": "Bumeater.Billy",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h28",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h26",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h25",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h24",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Omicron Beta",
+       "region": "North Edge Worlds"
+      },
+      {
+       "time": "1h18",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h12",
+       "name": "Alfred",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "57m",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "51m",
+       "name": "Cu_Faoil",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "41m",
+       "name": "[GN]GNS-Tourriers",
+       "system": "Lorraine",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "39m",
+       "name": "Wolverine",
+       "system": "Hudson",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "39m",
+       "name": "GMS|Gallia.Light",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "30m",
+       "name": "Bumblebee",
+       "system": "Sigma-15",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "29m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "29m",
+       "name": "1st|LNS-Praetorian",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "29m",
+       "name": "Tekir",
+       "system": "Sigma-17",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "28m",
+       "name": "HRZ~Amnestie",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "25m",
+       "name": "-=JoSch=-",
+       "system": "Frankfurt",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "22m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "20m",
+       "name": "KTS-Kaulitz",
+       "system": "New London",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "19m",
+       "name": "Gejatra_Logistics",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "17m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "14m",
+       "name": "Slow.Draw",
+       "system": "California",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "13m",
+       "name": "[RM]Bmn-Schulz.Niklas",
+       "system": "Omega-7",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "11m",
+       "name": ".:j:.Deadpool",
+       "system": "Puerto Rico",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "8m",
+       "name": "1st|LNS-Kailu",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "8m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Hamburg",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "8m",
+       "name": "Clockwork.Wizards",
+       "system": "Tau-37",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "8m",
+       "name": "Taraern",
+       "system": "Colorado",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "7m",
+       "name": "ORDER!",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "7m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "7m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "6m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "6m",
+       "name": ".:j:.-La.Punta",
+       "system": "Puerto Rico",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "5m",
+       "name": "1st|PEGASUS-Charlie5",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "5m",
+       "name": "DTR-CNSu003EEl.Arca",
+       "system": "Omicron Gamma",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "2m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "2m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1m",
+       "name": "xenex",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "0m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      }
+     ],
+     "timestamp": "2023-05-07T18:45:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "4h56",
+       "name": "Loki",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "3h53",
+       "name": "Bumeater.Billy",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h29",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h27",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h26",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h25",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Omicron Beta",
+       "region": "North Edge Worlds"
+      },
+      {
+       "time": "1h19",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h13",
+       "name": "Alfred",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "58m",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "52m",
+       "name": "Cu_Faoil",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "40m",
+       "name": "Wolverine",
+       "system": "Hudson",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "40m",
+       "name": "GMS|Gallia.Light",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "31m",
+       "name": "Bumblebee",
+       "system": "Sigma-15",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "30m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "30m",
+       "name": "1st|LNS-Praetorian",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "30m",
+       "name": "Tekir",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "29m",
+       "name": "HRZ~Amnestie",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "26m",
+       "name": "-=JoSch=-",
+       "system": "Frankfurt",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "23m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "21m",
+       "name": "KTS-Kaulitz",
+       "system": "New London",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "20m",
+       "name": "Gejatra_Logistics",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "18m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "15m",
+       "name": "Slow.Draw",
+       "system": "California",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "9m",
+       "name": "1st|LNS-Kailu",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "9m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Hamburg",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "9m",
+       "name": "Clockwork.Wizards",
+       "system": "Tau-37",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "8m",
+       "name": "ORDER!",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "8m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "8m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "7m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "7m",
+       "name": ".:j:.-La.Punta",
+       "system": "Puerto Rico",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "6m",
+       "name": "1st|PEGASUS-Charlie5",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "6m",
+       "name": "DTR-CNSu003EEl.Arca",
+       "system": "Omega-41",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "3m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "3m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omicron Gamma",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "2m",
+       "name": "xenex",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "0m",
+       "name": "GC-Komadori",
+       "system": "Omicron Alpha",
+       "region": "North Edge Worlds"
+      },
+      {
+       "time": "0m",
+       "name": "HRZ~Syriix",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "0m",
+       "name": ".:j:.Breman",
+       "system": "Puerto Rico",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "0m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "0m",
+       "name": "[RM]Bmn-Niklas.Schulz",
+       "system": "Omega-7",
+       "region": "Omega Border Worlds"
+      }
+     ],
+     "timestamp": "2023-05-07T18:46:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "4h57",
+       "name": "Loki",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h30",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h28",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h27",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h26",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Omicron Alpha",
+       "region": "North Edge Worlds"
+      },
+      {
+       "time": "1h20",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h14",
+       "name": "Alfred",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "59m",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "53m",
+       "name": "Cu_Faoil",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "41m",
+       "name": "Wolverine",
+       "system": "Hudson",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "41m",
+       "name": "GMS|Gallia.Light",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "32m",
+       "name": "Bumblebee",
+       "system": "Sigma-15",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "31m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "31m",
+       "name": "1st|LNS-Praetorian",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "31m",
+       "name": "Tekir",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "30m",
+       "name": "HRZ~Amnestie",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "27m",
+       "name": "-=JoSch=-",
+       "system": "Frankfurt",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "24m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "22m",
+       "name": "KTS-Kaulitz",
+       "system": "New London",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "19m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "16m",
+       "name": "Slow.Draw",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "10m",
+       "name": "1st|LNS-Kailu",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "10m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "10m",
+       "name": "Clockwork.Wizards",
+       "system": "Tau-37",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "9m",
+       "name": "ORDER!",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "9m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "9m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "8m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "8m",
+       "name": ".:j:.-La.Punta",
+       "system": "Puerto Rico",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "7m",
+       "name": "1st|PEGASUS-Charlie5",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "7m",
+       "name": "DTR-CNSu003EEl.Arca",
+       "system": "Omega-41",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "4m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "4m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omicron Gamma",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "3m",
+       "name": "xenex",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "2m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "1m",
+       "name": "GC-Komadori",
+       "system": "Tau-37",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "1m",
+       "name": "HRZ~Syriix",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1m",
+       "name": ".:j:.Breman",
+       "system": "Puerto Rico",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "1m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1m",
+       "name": "[RM]Bmn-Niklas.Schulz",
+       "system": "Omega-7",
+       "region": "Omega Border Worlds"
+      }
+     ],
+     "timestamp": "2023-05-07T18:47:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "4h58",
+       "name": "Loki",
+       "system": "Kepler",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "1h31",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h29",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h28",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h27",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Omicron Alpha",
+       "region": "North Edge Worlds"
+      },
+      {
+       "time": "1h21",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h15",
+       "name": "Alfred",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h00",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "54m",
+       "name": "Cu_Faoil",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "42m",
+       "name": "GMS|Gallia.Light",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "33m",
+       "name": "Bumblebee",
+       "system": "Sigma-21",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "32m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "32m",
+       "name": "1st|LNS-Praetorian",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "32m",
+       "name": "Tekir",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "31m",
+       "name": "HRZ~Amnestie",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "28m",
+       "name": "-=JoSch=-",
+       "system": "Frankfurt",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "25m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "23m",
+       "name": "KTS-Kaulitz",
+       "system": "Cambridge",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "20m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "17m",
+       "name": "Slow.Draw",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "11m",
+       "name": "1st|LNS-Kailu",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "11m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "11m",
+       "name": "Clockwork.Wizards",
+       "system": "Tau-37",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "10m",
+       "name": "ORDER!",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "10m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "10m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "9m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "9m",
+       "name": ".:j:.-La.Punta",
+       "system": "Puerto Rico",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "8m",
+       "name": "1st|PEGASUS-Charlie5",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "8m",
+       "name": "DTR-CNSu003EEl.Arca",
+       "system": "Omega-41",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "5m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "5m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omega-41",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "4m",
+       "name": "xenex",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "3m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "2m",
+       "name": "GC-Komadori",
+       "system": "Tau-37",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "2m",
+       "name": "HRZ~Syriix",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "2m",
+       "name": ".:j:.Breman",
+       "system": "Puerto Rico",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "2m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "2m",
+       "name": "[RM]Bmn-Niklas.Schulz",
+       "system": "Stuttgart",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "0m",
+       "name": "Felrazen",
+       "system": "Roussillon",
+       "region": "Tau Border Worlds"
+      }
+     ],
+     "timestamp": "2023-05-07T18:48:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "4h59",
+       "name": "Loki",
+       "system": "Kepler",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "1h32",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h30",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h29",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h28",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Omicron Alpha",
+       "region": "North Edge Worlds"
+      },
+      {
+       "time": "1h22",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h16",
+       "name": "Alfred",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h01",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "55m",
+       "name": "Cu_Faoil",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "43m",
+       "name": "GMS|Gallia.Light",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "34m",
+       "name": "Bumblebee",
+       "system": "Sigma-21",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "33m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "33m",
+       "name": "1st|LNS-Praetorian",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "33m",
+       "name": "Tekir",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "32m",
+       "name": "HRZ~Amnestie",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "29m",
+       "name": "-=JoSch=-",
+       "system": "Frankfurt",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "26m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "24m",
+       "name": "KTS-Kaulitz",
+       "system": "Cambridge",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "21m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "18m",
+       "name": "Slow.Draw",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "12m",
+       "name": "1st|LNS-Kailu",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "12m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "12m",
+       "name": "Clockwork.Wizards",
+       "system": "Omicron Alpha",
+       "region": "North Edge Worlds"
+      },
+      {
+       "time": "11m",
+       "name": "ORDER!",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "11m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "11m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "10m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "10m",
+       "name": ".:j:.-La.Punta",
+       "system": "Puerto Rico",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "9m",
+       "name": "1st|PEGASUS-Charlie5",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "9m",
+       "name": "DTR-CNSu003EEl.Arca",
+       "system": "Omega-41",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "6m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "6m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omega-41",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "5m",
+       "name": "xenex",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "4m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "3m",
+       "name": "GC-Komadori",
+       "system": "Tau-53",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "3m",
+       "name": "HRZ~Syriix",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "3m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1m",
+       "name": "Felrazen",
+       "system": "Roussillon",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "0m",
+       "name": "GC-Kuzuri",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "0m",
+       "name": ".:j:.Cypher",
+       "system": "New York",
+       "region": "Liberty Space"
+      }
+     ],
+     "timestamp": "2023-05-07T18:49:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "5h00",
+       "name": "Loki",
+       "system": "Colorado",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h33",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h31",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h30",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h29",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Tau-37",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "1h23",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h17",
+       "name": "Alfred",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h02",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "56m",
+       "name": "Cu_Faoil",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "44m",
+       "name": "GMS|Gallia.Light",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "35m",
+       "name": "Bumblebee",
+       "system": "Sigma-21",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "34m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "34m",
+       "name": "1st|LNS-Praetorian",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "34m",
+       "name": "Tekir",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "33m",
+       "name": "HRZ~Amnestie",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "30m",
+       "name": "-=JoSch=-",
+       "system": "Frankfurt",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "27m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "25m",
+       "name": "KTS-Kaulitz",
+       "system": "Cambridge",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "22m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "19m",
+       "name": "Slow.Draw",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "13m",
+       "name": "1st|LNS-Kailu",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "13m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "13m",
+       "name": "Clockwork.Wizards",
+       "system": "Omicron Alpha",
+       "region": "North Edge Worlds"
+      },
+      {
+       "time": "12m",
+       "name": "ORDER!",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "12m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "12m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "11m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "11m",
+       "name": ".:j:.-La.Punta",
+       "system": "Puerto Rico",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "10m",
+       "name": "DTR-CNSu003EEl.Arca",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "7m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "7m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omega-41",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "6m",
+       "name": "xenex",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "5m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "4m",
+       "name": "GC-Komadori",
+       "system": "Tau-53",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "4m",
+       "name": "HRZ~Syriix",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "4m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "2m",
+       "name": "Felrazen",
+       "system": "Roussillon",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "1m",
+       "name": "GC-Kuzuri",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "0m",
+       "name": ".:j:.Deadpool",
+       "system": "Puerto Rico",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "0m",
+       "name": "HMS-Plymouth",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      }
+     ],
+     "timestamp": "2023-05-07T18:50:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "5h01",
+       "name": "Loki",
+       "system": "Colorado",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h34",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h32",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h31",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h30",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Tau-37",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "1h24",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h18",
+       "name": "Alfred",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h03",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "57m",
+       "name": "Cu_Faoil",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "45m",
+       "name": "GMS|Gallia.Light",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "36m",
+       "name": "Bumblebee",
+       "system": "Honshu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "35m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "35m",
+       "name": "1st|LNS-Praetorian",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "34m",
+       "name": "HRZ~Amnestie",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "31m",
+       "name": "-=JoSch=-",
+       "system": "Frankfurt",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "28m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "26m",
+       "name": "KTS-Kaulitz",
+       "system": "Omega-3",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "23m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "20m",
+       "name": "Slow.Draw",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "14m",
+       "name": "1st|LNS-Kailu",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "14m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "14m",
+       "name": "Clockwork.Wizards",
+       "system": "Omicron Alpha",
+       "region": "North Edge Worlds"
+      },
+      {
+       "time": "13m",
+       "name": "ORDER!",
+       "system": "Pennsylvania",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "13m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "13m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "12m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "12m",
+       "name": ".:j:.-La.Punta",
+       "system": "Puerto Rico",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "11m",
+       "name": "DTR-CNSu003EEl.Arca",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "8m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "8m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "7m",
+       "name": "xenex",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "6m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "5m",
+       "name": "GC-Komadori",
+       "system": "Hokkaido",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "5m",
+       "name": "HRZ~Syriix",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "5m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "3m",
+       "name": "Felrazen",
+       "system": "Roussillon",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "2m",
+       "name": "GC-Kuzuri",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1m",
+       "name": ".:j:.Deadpool",
+       "system": "Puerto Rico",
+       "region": "Independent Worlds"
+      }
+     ],
+     "timestamp": "2023-05-07T18:51:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "5h02",
+       "name": "Loki",
+       "system": "Colorado",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h35",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h33",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h32",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h31",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Tau-23",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "1h25",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h19",
+       "name": "Alfred",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h04",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "58m",
+       "name": "Cu_Faoil",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "46m",
+       "name": "GMS|Gallia.Light",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "37m",
+       "name": "Bumblebee",
+       "system": "Honshu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "36m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "36m",
+       "name": "1st|LNS-Praetorian",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "35m",
+       "name": "HRZ~Amnestie",
+       "system": "Hamburg",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "32m",
+       "name": "-=JoSch=-",
+       "system": "Frankfurt",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "29m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "27m",
+       "name": "KTS-Kaulitz",
+       "system": "Omega-3",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "24m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "21m",
+       "name": "Slow.Draw",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "15m",
+       "name": "1st|LNS-Kailu",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "15m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "15m",
+       "name": "Clockwork.Wizards",
+       "system": "Omicron Alpha",
+       "region": "North Edge Worlds"
+      },
+      {
+       "time": "14m",
+       "name": "ORDER!",
+       "system": "Omicron Mu",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "14m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "14m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "13m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "12m",
+       "name": "DTR-CNSu003EEl.Arca",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "9m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "9m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "8m",
+       "name": "xenex",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "7m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "6m",
+       "name": "GC-Komadori",
+       "system": "Hokkaido",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "6m",
+       "name": "HRZ~Syriix",
+       "system": "Hamburg",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "6m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "4m",
+       "name": "Felrazen",
+       "system": "Roussillon",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "3m",
+       "name": "GC-Kuzuri",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "2m",
+       "name": ".:j:.Deadpool",
+       "system": "Puerto Rico",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "0m",
+       "name": "[MFE]Doc.Holliday",
+       "system": "Baffin",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "0m",
+       "name": "1st|Raptor-1-PC",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "0m",
+       "name": "Tekir",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "0m",
+       "name": "BD-Voidfox",
+       "system": "Chugoku",
+       "region": "Kusari Space"
+      }
+     ],
+     "timestamp": "2023-05-07T18:52:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "5h03",
+       "name": "Loki",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h36",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h34",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h33",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h32",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Tau-23",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "1h26",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h20",
+       "name": "Alfred",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h05",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "59m",
+       "name": "Cu_Faoil",
+       "system": "Frankfurt",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "47m",
+       "name": "GMS|Gallia.Light",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "38m",
+       "name": "Bumblebee",
+       "system": "New Tokyo",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "37m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "37m",
+       "name": "1st|LNS-Praetorian",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "36m",
+       "name": "HRZ~Amnestie",
+       "system": "Hamburg",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "33m",
+       "name": "-=JoSch=-",
+       "system": "Frankfurt",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "30m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "28m",
+       "name": "KTS-Kaulitz",
+       "system": "Omega-3",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "25m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "22m",
+       "name": "Slow.Draw",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "16m",
+       "name": "1st|LNS-Kailu",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "16m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "16m",
+       "name": "Clockwork.Wizards",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "15m",
+       "name": "ORDER!",
+       "system": "Omicron Mu",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "15m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "15m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "14m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "10m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "10m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "9m",
+       "name": "xenex",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "8m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "7m",
+       "name": "GC-Komadori",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "7m",
+       "name": "HRZ~Syriix",
+       "system": "Hamburg",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "7m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "5m",
+       "name": "Felrazen",
+       "system": "Roussillon",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "4m",
+       "name": "GC-Kuzuri",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "3m",
+       "name": ".:j:.Deadpool",
+       "system": "Puerto Rico",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "1m",
+       "name": "[MFE]Doc.Holliday",
+       "system": "Baffin",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "1m",
+       "name": "1st|Raptor-1-PC",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1m",
+       "name": "Tekir",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1m",
+       "name": "BD-Voidfox",
+       "system": "Chugoku",
+       "region": "Kusari Space"
+      }
+     ],
+     "timestamp": "2023-05-07T18:53:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "5h04",
+       "name": "Loki",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h37",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h35",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h34",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h33",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Tau-23",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "1h27",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h21",
+       "name": "Alfred",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h06",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h00",
+       "name": "Cu_Faoil",
+       "system": "Frankfurt",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "39m",
+       "name": "Bumblebee",
+       "system": "New Tokyo",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "38m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Languedoc",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "38m",
+       "name": "1st|LNS-Praetorian",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "37m",
+       "name": "HRZ~Amnestie",
+       "system": "Hamburg",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "34m",
+       "name": "-=JoSch=-",
+       "system": "Frankfurt",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "31m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "29m",
+       "name": "KTS-Kaulitz",
+       "system": "Omega-7",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "26m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "23m",
+       "name": "Slow.Draw",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "17m",
+       "name": "1st|LNS-Kailu",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "17m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Kansas",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "17m",
+       "name": "Clockwork.Wizards",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "16m",
+       "name": "ORDER!",
+       "system": "Omicron Mu",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "16m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "16m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "15m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "11m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "11m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "10m",
+       "name": "xenex",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "9m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "8m",
+       "name": "GC-Komadori",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "8m",
+       "name": "HRZ~Syriix",
+       "system": "Hamburg",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "8m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "6m",
+       "name": "Felrazen",
+       "system": "Roussillon",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "5m",
+       "name": "GC-Kuzuri",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "4m",
+       "name": ".:j:.Deadpool",
+       "system": "Puerto Rico",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "2m",
+       "name": "[MFE]Doc.Holliday",
+       "system": "Baffin",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "2m",
+       "name": "1st|Raptor-1-PC",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "2m",
+       "name": "Tekir",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "2m",
+       "name": "BD-Voidfox",
+       "system": "Chugoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "0m",
+       "name": "[RM]Lt-Elias.Beist",
+       "system": "Hamburg",
+       "region": "Rheinland Space"
+      }
+     ],
+     "timestamp": "2023-05-07T18:54:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "5h05",
+       "name": "Loki",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h38",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h36",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h35",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h34",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Tau-31",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "1h28",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h22",
+       "name": "Alfred",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h07",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h01",
+       "name": "Cu_Faoil",
+       "system": "Frankfurt",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "40m",
+       "name": "Bumblebee",
+       "system": "New Tokyo",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "39m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Ile-de-France",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "39m",
+       "name": "1st|LNS-Praetorian",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "38m",
+       "name": "HRZ~Amnestie",
+       "system": "Hamburg",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "35m",
+       "name": "-=JoSch=-",
+       "system": "Frankfurt",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "32m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "30m",
+       "name": "KTS-Kaulitz",
+       "system": "Omega-7",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "27m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "24m",
+       "name": "Slow.Draw",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "18m",
+       "name": "1st|LNS-Kailu",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "18m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Kansas",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "18m",
+       "name": "Clockwork.Wizards",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "17m",
+       "name": "ORDER!",
+       "system": "Omicron Mu",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "17m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "17m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "16m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "12m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "12m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "11m",
+       "name": "xenex",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "10m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "9m",
+       "name": "GC-Komadori",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "9m",
+       "name": "HRZ~Syriix",
+       "system": "Hamburg",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "9m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "6m",
+       "name": "GC-Kuzuri",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "5m",
+       "name": ".:j:.Deadpool",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "3m",
+       "name": "1st|Raptor-1-PC",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "3m",
+       "name": "Tekir",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "3m",
+       "name": "BD-Voidfox",
+       "system": "Chugoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1m",
+       "name": "[RM]Lt-Elias.Beist",
+       "system": "Hamburg",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "0m",
+       "name": "LNS-Nexus",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "0m",
+       "name": "Tau.01",
+       "system": "Omicron Alpha",
+       "region": "North Edge Worlds"
+      }
+     ],
+     "timestamp": "2023-05-07T18:55:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "5h06",
+       "name": "Loki",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h39",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h37",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h36",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h35",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Tau-31",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "1h29",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h23",
+       "name": "Alfred",
+       "system": "Omicron Gamma",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h08",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omicron Gamma",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h02",
+       "name": "Cu_Faoil",
+       "system": "Frankfurt",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "41m",
+       "name": "Bumblebee",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "40m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Ile-de-France",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "40m",
+       "name": "1st|LNS-Praetorian",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "39m",
+       "name": "HRZ~Amnestie",
+       "system": "Hamburg",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "36m",
+       "name": "-=JoSch=-",
+       "system": "Frankfurt",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "33m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "31m",
+       "name": "KTS-Kaulitz",
+       "system": "Stuttgart",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "28m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "25m",
+       "name": "Slow.Draw",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "19m",
+       "name": "1st|LNS-Kailu",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "19m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Kansas",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "19m",
+       "name": "Clockwork.Wizards",
+       "system": "Omicron Theta",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "18m",
+       "name": "ORDER!",
+       "system": "Omicron Mu",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "18m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "18m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "17m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omicron Gamma",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "13m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "13m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "12m",
+       "name": "xenex",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "11m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "10m",
+       "name": "GC-Komadori",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "10m",
+       "name": "HRZ~Syriix",
+       "system": "Hamburg",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "10m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "7m",
+       "name": "GC-Kuzuri",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "6m",
+       "name": ".:j:.Deadpool",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "4m",
+       "name": "1st|Raptor-1-PC",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "4m",
+       "name": "Tekir",
+       "system": "Omicron Gamma",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "4m",
+       "name": "BD-Voidfox",
+       "system": "Chugoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "2m",
+       "name": "[RM]Lt-Elias.Beist",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "1m",
+       "name": "LNS-Nexus",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1m",
+       "name": "Tau.01",
+       "system": "Omicron Alpha",
+       "region": "North Edge Worlds"
+      },
+      {
+       "time": "0m",
+       "name": "DTR-CNSu003EPedro",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      }
+     ],
+     "timestamp": "2023-05-07T18:56:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "5h07",
+       "name": "Loki",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h40",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h38",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h37",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h36",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Coronado",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "1h30",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h24",
+       "name": "Alfred",
+       "system": "Omicron Gamma",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h09",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omicron Gamma",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h03",
+       "name": "Cu_Faoil",
+       "system": "Frankfurt",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "42m",
+       "name": "Bumblebee",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "41m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Ile-de-France",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "41m",
+       "name": "1st|LNS-Praetorian",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "37m",
+       "name": "-=JoSch=-",
+       "system": "Frankfurt",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "34m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "32m",
+       "name": "KTS-Kaulitz",
+       "system": "Stuttgart",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "29m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "26m",
+       "name": "Slow.Draw",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "20m",
+       "name": "1st|LNS-Kailu",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "20m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Kansas",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "20m",
+       "name": "Clockwork.Wizards",
+       "system": "Omega-41",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "19m",
+       "name": "ORDER!",
+       "system": "Omicron Mu",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "19m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "19m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "18m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omicron Gamma",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "14m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "14m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "12m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "11m",
+       "name": "GC-Komadori",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "11m",
+       "name": "HRZ~Syriix",
+       "system": "Cologne",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "11m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "8m",
+       "name": "GC-Kuzuri",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "7m",
+       "name": ".:j:.Deadpool",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "5m",
+       "name": "1st|Raptor-1-PC",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "5m",
+       "name": "Tekir",
+       "system": "Omicron Gamma",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "5m",
+       "name": "BD-Voidfox",
+       "system": "Tohoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "3m",
+       "name": "[RM]Lt-Elias.Beist",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "2m",
+       "name": "Tau.01",
+       "system": "Omicron Alpha",
+       "region": "North Edge Worlds"
+      },
+      {
+       "time": "1m",
+       "name": "DTR-CNSu003EPedro",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "0m",
+       "name": "Miles.Hughes",
+       "system": "New York",
+       "region": "Liberty Space"
+      }
+     ],
+     "timestamp": "2023-05-07T18:57:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "5h08",
+       "name": "Loki",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h41",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h39",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h38",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h37",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Coronado",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "1h31",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h25",
+       "name": "Alfred",
+       "system": "Omicron Gamma",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h10",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omicron Gamma",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h04",
+       "name": "Cu_Faoil",
+       "system": "Thuringia",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "43m",
+       "name": "Bumblebee",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "42m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Ile-de-France",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "42m",
+       "name": "1st|LNS-Praetorian",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "38m",
+       "name": "-=JoSch=-",
+       "system": "Frankfurt",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "35m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "33m",
+       "name": "KTS-Kaulitz",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "30m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "27m",
+       "name": "Slow.Draw",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "21m",
+       "name": "1st|LNS-Kailu",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "21m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "21m",
+       "name": "Clockwork.Wizards",
+       "system": "Omega-41",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "20m",
+       "name": "ORDER!",
+       "system": "Omicron Mu",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "20m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "20m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "19m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omicron Gamma",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "15m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "15m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "13m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "12m",
+       "name": "GC-Komadori",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "12m",
+       "name": "HRZ~Syriix",
+       "system": "Cologne",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "12m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "9m",
+       "name": "GC-Kuzuri",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "8m",
+       "name": ".:j:.Deadpool",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "6m",
+       "name": "1st|Raptor-1-PC",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "6m",
+       "name": "Tekir",
+       "system": "Omicron Gamma",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "6m",
+       "name": "BD-Voidfox",
+       "system": "Tohoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "4m",
+       "name": "[RM]Lt-Elias.Beist",
+       "system": "Stuttgart",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "3m",
+       "name": "Tau.01",
+       "system": "Omicron Alpha",
+       "region": "North Edge Worlds"
+      },
+      {
+       "time": "2m",
+       "name": "DTR-CNSu003EPedro",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1m",
+       "name": "Miles.Hughes",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "0m",
+       "name": "MNS-Unstoppable",
+       "system": "Omicron Alpha",
+       "region": "North Edge Worlds"
+      },
+      {
+       "time": "0m",
+       "name": "HRZ~Amnestie",
+       "system": "Hamburg",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "0m",
+       "name": "1st|LNS-Discovery",
+       "system": "New York",
+       "region": "Liberty Space"
+      }
+     ],
+     "timestamp": "2023-05-07T18:58:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "5h09",
+       "name": "Loki",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h42",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h40",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h39",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h38",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Coronado",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "1h32",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h26",
+       "name": "Alfred",
+       "system": "Omicron Gamma",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h11",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omicron Gamma",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1h05",
+       "name": "Cu_Faoil",
+       "system": "Thuringia",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "44m",
+       "name": "Bumblebee",
+       "system": "Tau-29",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "43m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Picardy",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "43m",
+       "name": "1st|LNS-Praetorian",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "39m",
+       "name": "-=JoSch=-",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "36m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "34m",
+       "name": "KTS-Kaulitz",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "31m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "28m",
+       "name": "Slow.Draw",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "22m",
+       "name": "1st|LNS-Kailu",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "22m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "22m",
+       "name": "Clockwork.Wizards",
+       "system": "Omega-41",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "21m",
+       "name": "ORDER!",
+       "system": "Omicron Mu",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "21m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "21m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "20m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omega-41",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "16m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "16m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "14m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "13m",
+       "name": "GC-Komadori",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "13m",
+       "name": "HRZ~Syriix",
+       "system": "Cologne",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "13m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "10m",
+       "name": "GC-Kuzuri",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "9m",
+       "name": ".:j:.Deadpool",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "7m",
+       "name": "1st|Raptor-1-PC",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "7m",
+       "name": "Tekir",
+       "system": "Omicron Gamma",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "7m",
+       "name": "BD-Voidfox",
+       "system": "Tohoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "5m",
+       "name": "[RM]Lt-Elias.Beist",
+       "system": "Stuttgart",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "4m",
+       "name": "Tau.01",
+       "system": "Tau-37",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "3m",
+       "name": "DTR-CNSu003EPedro",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "2m",
+       "name": "Miles.Hughes",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1m",
+       "name": "HRZ~Amnestie",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "1m",
+       "name": "1st|LNS-Discovery",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "0m",
+       "name": "RNS-Proclarush.Taonas",
+       "system": "Provence",
+       "region": "Gallic Border Worlds"
+      },
+      {
+       "time": "0m",
+       "name": "~IC~Springs.Falls",
+       "system": "New London",
+       "region": "Bretonia Space"
+      }
+     ],
+     "timestamp": "2023-05-07T18:59:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "5h10",
+       "name": "Loki",
+       "system": "California",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h43",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h41",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h40",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h39",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Coronado",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "1h33",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h27",
+       "name": "Alfred",
+       "system": "Omega-55",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h12",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omega-55",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h06",
+       "name": "Cu_Faoil",
+       "system": "Thuringia",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "45m",
+       "name": "Bumblebee",
+       "system": "Tau-29",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "44m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Picardy",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "44m",
+       "name": "1st|LNS-Praetorian",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "40m",
+       "name": "-=JoSch=-",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "37m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "35m",
+       "name": "KTS-Kaulitz",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "32m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "29m",
+       "name": "Slow.Draw",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "23m",
+       "name": "1st|LNS-Kailu",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "23m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "23m",
+       "name": "Clockwork.Wizards",
+       "system": "Omega-41",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "22m",
+       "name": "ORDER!",
+       "system": "Omicron Mu",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "22m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "22m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "21m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omega-41",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "17m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "17m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "15m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "14m",
+       "name": "GC-Komadori",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "14m",
+       "name": "HRZ~Syriix",
+       "system": "Cologne",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "14m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "11m",
+       "name": "GC-Kuzuri",
+       "system": "Tau-23",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "10m",
+       "name": ".:j:.Deadpool",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "8m",
+       "name": "1st|Raptor-1-PC",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "8m",
+       "name": "Tekir",
+       "system": "Omega-55",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "8m",
+       "name": "BD-Voidfox",
+       "system": "Tohoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "6m",
+       "name": "[RM]Lt-Elias.Beist",
+       "system": "Stuttgart",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "5m",
+       "name": "Tau.01",
+       "system": "Tau-37",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "4m",
+       "name": "DTR-CNSu003EPedro",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "3m",
+       "name": "Miles.Hughes",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "2m",
+       "name": "HRZ~Amnestie",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "2m",
+       "name": "1st|LNS-Discovery",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1m",
+       "name": "~IC~Springs.Falls",
+       "system": "New London",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "0m",
+       "name": "Xennex",
+       "system": "New York",
+       "region": "Liberty Space"
+      }
+     ],
+     "timestamp": "2023-05-07T19:00:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "5h11",
+       "name": "Loki",
+       "system": "California",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h44",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h42",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h41",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h40",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Inverness",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "1h34",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h28",
+       "name": "Alfred",
+       "system": "Omega-55",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h13",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omega-55",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h07",
+       "name": "Cu_Faoil",
+       "system": "Thuringia",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "46m",
+       "name": "Bumblebee",
+       "system": "Baffin",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "45m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Picardy",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "41m",
+       "name": "-=JoSch=-",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "38m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "36m",
+       "name": "KTS-Kaulitz",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "33m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "30m",
+       "name": "Slow.Draw",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "24m",
+       "name": "1st|LNS-Kailu",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "24m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "24m",
+       "name": "Clockwork.Wizards",
+       "system": "Omega-41",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "23m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "23m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "22m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omega-41",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "18m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "18m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "16m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "15m",
+       "name": "GC-Komadori",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "15m",
+       "name": "HRZ~Syriix",
+       "system": "Stuttgart",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "15m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "12m",
+       "name": "GC-Kuzuri",
+       "system": "Tau-37",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "11m",
+       "name": ".:j:.Deadpool",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "9m",
+       "name": "1st|Raptor-1-PC",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "9m",
+       "name": "Tekir",
+       "system": "Omega-55",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "9m",
+       "name": "BD-Voidfox",
+       "system": "Okinawa",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "7m",
+       "name": "[RM]Lt-Elias.Beist",
+       "system": "Omega-7",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "6m",
+       "name": "Tau.01",
+       "system": "Tau-23",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "5m",
+       "name": "DTR-CNSu003EPedro",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "4m",
+       "name": "Miles.Hughes",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "3m",
+       "name": "1st|LNS-Discovery",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "2m",
+       "name": "~IC~Springs.Falls",
+       "system": "New London",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "1m",
+       "name": "Xennex",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "0m",
+       "name": "RNS-Tavaraux",
+       "system": "Picardy",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "0m",
+       "name": "BWE|Especial",
+       "system": "Picardy",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "0m",
+       "name": "Lamorak",
+       "system": "New London",
+       "region": "Bretonia Space"
+      }
+     ],
+     "timestamp": "2023-05-07T19:01:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "5h12",
+       "name": "Loki",
+       "system": "California",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h45",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h43",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h42",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h41",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Inverness",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "1h35",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h29",
+       "name": "Alfred",
+       "system": "Omega-55",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h14",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omega-55",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h08",
+       "name": "Cu_Faoil",
+       "system": "Thuringia",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "47m",
+       "name": "Bumblebee",
+       "system": "Baffin",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "46m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Picardy",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "42m",
+       "name": "-=JoSch=-",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "39m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "37m",
+       "name": "KTS-Kaulitz",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "34m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "31m",
+       "name": "Slow.Draw",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "25m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "25m",
+       "name": "Clockwork.Wizards",
+       "system": "Omega-41",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "24m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "24m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "23m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omega-41",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "19m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "19m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "17m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "16m",
+       "name": "GC-Komadori",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "16m",
+       "name": "HRZ~Syriix",
+       "system": "Stuttgart",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "16m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "13m",
+       "name": "GC-Kuzuri",
+       "system": "Tau-37",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "12m",
+       "name": ".:j:.Deadpool",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "10m",
+       "name": "Tekir",
+       "system": "Omega-55",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "10m",
+       "name": "BD-Voidfox",
+       "system": "Okinawa",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "7m",
+       "name": "Tau.01",
+       "system": "Tau-23",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "6m",
+       "name": "DTR-CNSu003EPedro",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "5m",
+       "name": "Miles.Hughes",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "4m",
+       "name": "1st|LNS-Discovery",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "2m",
+       "name": "Xennex",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1m",
+       "name": "RNS-Tavaraux",
+       "system": "Picardy",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "1m",
+       "name": "Lamorak",
+       "system": "New London",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "0m",
+       "name": "ORDER!",
+       "system": "Omicron Mu",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "0m",
+       "name": "Jerry.Anderson",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "0m",
+       "name": "HRZ~Terpentin",
+       "system": "Omega-7",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "0m",
+       "name": "[RM]Lt-Elias,Beist",
+       "system": "Hamburg",
+       "region": "Rheinland Space"
+      }
+     ],
+     "timestamp": "2023-05-07T19:02:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "5h13",
+       "name": "Loki",
+       "system": "California",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h46",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h44",
+       "name": "JackLazarus",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h43",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h42",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Inverness",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "1h36",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h30",
+       "name": "Alfred",
+       "system": "Omega-55",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h15",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omega-55",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h09",
+       "name": "Cu_Faoil",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "48m",
+       "name": "Bumblebee",
+       "system": "Baffin",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "47m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Picardy",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "43m",
+       "name": "-=JoSch=-",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "40m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "38m",
+       "name": "KTS-Kaulitz",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "35m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "32m",
+       "name": "Slow.Draw",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "26m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "26m",
+       "name": "Clockwork.Wizards",
+       "system": "Omega-41",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "25m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "25m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "24m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "20m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "20m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "18m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "17m",
+       "name": "GC-Komadori",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "17m",
+       "name": "HRZ~Syriix",
+       "system": "Stuttgart",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "17m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "14m",
+       "name": "GC-Kuzuri",
+       "system": "Omicron Alpha",
+       "region": "North Edge Worlds"
+      },
+      {
+       "time": "13m",
+       "name": ".:j:.Deadpool",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "11m",
+       "name": "Tekir",
+       "system": "Omega-55",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "11m",
+       "name": "BD-Voidfox",
+       "system": "Okinawa",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "8m",
+       "name": "Tau.01",
+       "system": "Tau-23",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "6m",
+       "name": "Miles.Hughes",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "5m",
+       "name": "1st|LNS-Discovery",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "3m",
+       "name": "Xennex",
+       "system": "Colorado",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "2m",
+       "name": "RNS-Tavaraux",
+       "system": "Picardy",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "1m",
+       "name": "ORDER!",
+       "system": "Omicron Mu",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "1m",
+       "name": "Jerry.Anderson",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1m",
+       "name": "HRZ~Terpentin",
+       "system": "Omega-7",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1m",
+       "name": "[RM]Lt-Elias,Beist",
+       "system": "Hamburg",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "0m",
+       "name": "Insure|Springs.Falls",
+       "system": "New London",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "0m",
+       "name": "GC-Aisufurawa",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      }
+     ],
+     "timestamp": "2023-05-07T19:03:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "5h14",
+       "name": "Loki",
+       "system": "California",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h47",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h45",
+       "name": "JackLazarus",
+       "system": "Virginia",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h44",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h43",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "1h37",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h31",
+       "name": "Alfred",
+       "system": "Omega-55",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h16",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omega-55",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h10",
+       "name": "Cu_Faoil",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "49m",
+       "name": "Bumblebee",
+       "system": "Baffin",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "48m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Picardy",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "44m",
+       "name": "-=JoSch=-",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "41m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "39m",
+       "name": "KTS-Kaulitz",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "36m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "33m",
+       "name": "Slow.Draw",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "27m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "27m",
+       "name": "Clockwork.Wizards",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "26m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "26m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "25m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "21m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "21m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "19m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "18m",
+       "name": "GC-Komadori",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "18m",
+       "name": "HRZ~Syriix",
+       "system": "Omega-7",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "18m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "15m",
+       "name": "GC-Kuzuri",
+       "system": "Omicron Alpha",
+       "region": "North Edge Worlds"
+      },
+      {
+       "time": "14m",
+       "name": ".:j:.Deadpool",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "12m",
+       "name": "Tekir",
+       "system": "Omega-55",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "12m",
+       "name": "BD-Voidfox",
+       "system": "Okinawa",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "9m",
+       "name": "Tau.01",
+       "system": "Tau-23",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "7m",
+       "name": "Miles.Hughes",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "6m",
+       "name": "1st|LNS-Discovery",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "4m",
+       "name": "Xennex",
+       "system": "Colorado",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "3m",
+       "name": "RNS-Tavaraux",
+       "system": "Picardy",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "2m",
+       "name": "ORDER!",
+       "system": "Omicron Mu",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "2m",
+       "name": "Jerry.Anderson",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "2m",
+       "name": "HRZ~Terpentin",
+       "system": "Omega-7",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "2m",
+       "name": "[RM]Lt-Elias,Beist",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "1m",
+       "name": "Insure|Springs.Falls",
+       "system": "New London",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "1m",
+       "name": "GC-Aisufurawa",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "0m",
+       "name": "Tate.Henderson",
+       "system": "Dublin",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "0m",
+       "name": "DTR-CNSu003ETwilight",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "0m",
+       "name": "Lamorak",
+       "system": "New London",
+       "region": "Bretonia Space"
+      }
+     ],
+     "timestamp": "2023-05-07T19:04:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "5h15",
+       "name": "Loki",
+       "system": "California",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h48",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h46",
+       "name": "JackLazarus",
+       "system": "Virginia",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h45",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h44",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "1h38",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h32",
+       "name": "Alfred",
+       "system": "Omega-11",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h17",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omega-11",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h11",
+       "name": "Cu_Faoil",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "49m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Picardy",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "45m",
+       "name": "-=JoSch=-",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "42m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "40m",
+       "name": "KTS-Kaulitz",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "37m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "34m",
+       "name": "Slow.Draw",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "28m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "28m",
+       "name": "Clockwork.Wizards",
+       "system": "Omega-55",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "27m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "27m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "26m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "22m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "22m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "20m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "19m",
+       "name": "GC-Komadori",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "19m",
+       "name": "HRZ~Syriix",
+       "system": "Omega-7",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "19m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "16m",
+       "name": "GC-Kuzuri",
+       "system": "Omicron Alpha",
+       "region": "North Edge Worlds"
+      },
+      {
+       "time": "15m",
+       "name": ".:j:.Deadpool",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "13m",
+       "name": "Tekir",
+       "system": "Omega-11",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "13m",
+       "name": "BD-Voidfox",
+       "system": "Okinawa",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "10m",
+       "name": "Tau.01",
+       "system": "Tau-31",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "8m",
+       "name": "Miles.Hughes",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "7m",
+       "name": "1st|LNS-Discovery",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "5m",
+       "name": "Xennex",
+       "system": "Colorado",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "4m",
+       "name": "RNS-Tavaraux",
+       "system": "Picardy",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "3m",
+       "name": "ORDER!",
+       "system": "Omicron Mu",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "3m",
+       "name": "Jerry.Anderson",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "3m",
+       "name": "HRZ~Terpentin",
+       "system": "Omega-7",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "3m",
+       "name": "[RM]Lt-Elias,Beist",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "2m",
+       "name": "Insure|Springs.Falls",
+       "system": "New London",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "2m",
+       "name": "GC-Aisufurawa",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1m",
+       "name": "Tate.Henderson",
+       "system": "Dublin",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "1m",
+       "name": "DTR-CNSu003ETwilight",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1m",
+       "name": "Lamorak",
+       "system": "New London",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "0m",
+       "name": "Pomodoro0412",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "0m",
+       "name": "DTR-CNSu003EPedro",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      }
+     ],
+     "timestamp": "2023-05-07T19:05:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "5h16",
+       "name": "Loki",
+       "system": "California",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h49",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h47",
+       "name": "JackLazarus",
+       "system": "Virginia",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h46",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h45",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "1h39",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h33",
+       "name": "Alfred",
+       "system": "Omega-11",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h18",
+       "name": "Kruger|KTS-Tulln",
+       "system": "Omega-11",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h12",
+       "name": "Cu_Faoil",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "50m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Picardy",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "46m",
+       "name": "-=JoSch=-",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "43m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "41m",
+       "name": "KTS-Kaulitz",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "38m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "35m",
+       "name": "Slow.Draw",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "29m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "29m",
+       "name": "Clockwork.Wizards",
+       "system": "Omega-55",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "28m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "28m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "27m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "23m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "23m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "21m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "20m",
+       "name": "GC-Komadori",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "20m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "17m",
+       "name": "GC-Kuzuri",
+       "system": "Tau-37",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "16m",
+       "name": ".:j:.Deadpool",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "14m",
+       "name": "Tekir",
+       "system": "Omega-11",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "14m",
+       "name": "BD-Voidfox",
+       "system": "Okinawa",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "11m",
+       "name": "Tau.01",
+       "system": "Tau-31",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "9m",
+       "name": "Miles.Hughes",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "6m",
+       "name": "Xennex",
+       "system": "Colorado",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "5m",
+       "name": "RNS-Tavaraux",
+       "system": "Picardy",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "4m",
+       "name": "ORDER!",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "4m",
+       "name": "Jerry.Anderson",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "4m",
+       "name": "[RM]Lt-Elias,Beist",
+       "system": "Stuttgart",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "3m",
+       "name": "Insure|Springs.Falls",
+       "system": "New London",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "3m",
+       "name": "GC-Aisufurawa",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "2m",
+       "name": "Tate.Henderson",
+       "system": "New London",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "2m",
+       "name": "DTR-CNSu003ETwilight",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "2m",
+       "name": "Lamorak",
+       "system": "Cambridge",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "1m",
+       "name": "Pomodoro0412",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "1m",
+       "name": "DTR-CNSu003EPedro",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "0m",
+       "name": "Winston.Wallace",
+       "system": "Omega-3",
+       "region": "Omega Border Worlds"
+      }
+     ],
+     "timestamp": "2023-05-07T19:06:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "5h17",
+       "name": "Loki",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h50",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h47",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h46",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "1h40",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h13",
+       "name": "Cu_Faoil",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "51m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Ile-de-France",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "47m",
+       "name": "-=JoSch=-",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "44m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "42m",
+       "name": "KTS-Kaulitz",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "39m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "36m",
+       "name": "Slow.Draw",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "30m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "30m",
+       "name": "Clockwork.Wizards",
+       "system": "Omega-55",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "29m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "29m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "28m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "24m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "24m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "22m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "21m",
+       "name": "GC-Komadori",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "21m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "18m",
+       "name": "GC-Kuzuri",
+       "system": "Tau-37",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "17m",
+       "name": ".:j:.Deadpool",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "15m",
+       "name": "Tekir",
+       "system": "Omega-11",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "15m",
+       "name": "BD-Voidfox",
+       "system": "Okinawa",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "12m",
+       "name": "Tau.01",
+       "system": "Tau-31",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "6m",
+       "name": "RNS-Tavaraux",
+       "system": "Picardy",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "5m",
+       "name": "ORDER!",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "5m",
+       "name": "Jerry.Anderson",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "5m",
+       "name": "[RM]Lt-Elias,Beist",
+       "system": "Stuttgart",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "4m",
+       "name": "Insure|Springs.Falls",
+       "system": "New London",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "4m",
+       "name": "GC-Aisufurawa",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "3m",
+       "name": "Tate.Henderson",
+       "system": "New London",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "3m",
+       "name": "DTR-CNSu003ETwilight",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "3m",
+       "name": "Lamorak",
+       "system": "Cambridge",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "2m",
+       "name": "Pomodoro0412",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "2m",
+       "name": "DTR-CNSu003EPedro",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1m",
+       "name": "Winston.Wallace",
+       "system": "Omega-3",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "0m",
+       "name": "[RM]KKS-Greifenstein",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "0m",
+       "name": "DTR-CNSu003ECimitarra",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "0m",
+       "name": "xenex",
+       "system": "Alaska",
+       "region": "Liberty Space"
+      }
+     ],
+     "timestamp": "2023-05-07T19:07:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "5h18",
+       "name": "Loki",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h51",
+       "name": "Rhodan",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h48",
+       "name": "sissi",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "1h47",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "1h41",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h14",
+       "name": "Cu_Faoil",
+       "system": "Bering",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "52m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Ile-de-France",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "48m",
+       "name": "-=JoSch=-",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "45m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "43m",
+       "name": "KTS-Kaulitz",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "40m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "37m",
+       "name": "Slow.Draw",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "31m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "31m",
+       "name": "Clockwork.Wizards",
+       "system": "Omega-55",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "30m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "30m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "29m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "25m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "25m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "23m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "22m",
+       "name": "GC-Komadori",
+       "system": "Tau-23",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "22m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "19m",
+       "name": "GC-Kuzuri",
+       "system": "Tau-23",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "18m",
+       "name": ".:j:.Deadpool",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "16m",
+       "name": "BD-Voidfox",
+       "system": "Okinawa",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "13m",
+       "name": "Tau.01",
+       "system": "Tau-31",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "7m",
+       "name": "RNS-Tavaraux",
+       "system": "Picardy",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "6m",
+       "name": "ORDER!",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "6m",
+       "name": "Jerry.Anderson",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "6m",
+       "name": "[RM]Lt-Elias,Beist",
+       "system": "Omega-7",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "5m",
+       "name": "Insure|Springs.Falls",
+       "system": "New London",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "5m",
+       "name": "GC-Aisufurawa",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "4m",
+       "name": "Tate.Henderson",
+       "system": "New London",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "4m",
+       "name": "DTR-CNSu003ETwilight",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "4m",
+       "name": "Lamorak",
+       "system": "Cambridge",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "3m",
+       "name": "Pomodoro0412",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "3m",
+       "name": "DTR-CNSu003EPedro",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "2m",
+       "name": "Winston.Wallace",
+       "system": "Omega-3",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1m",
+       "name": "[RM]KKS-Greifenstein",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "1m",
+       "name": "DTR-CNSu003ECimitarra",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "0m",
+       "name": "Xennex",
+       "system": "Colorado",
+       "region": "Liberty Space"
+      }
+     ],
+     "timestamp": "2023-05-07T19:08:01"
+    },
+    {
+     "error": null,
+     "players": [
+      {
+       "time": "5h19",
+       "name": "Loki",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "1h52",
+       "name": "Rhodan",
+       "system": "Galileo",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "1h49",
+       "name": "sissi",
+       "system": "Galileo",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "1h48",
+       "name": "Never-Talk-To-Strangers",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "1h42",
+       "name": "Herc-4",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "1h15",
+       "name": "Cu_Faoil",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "53m",
+       "name": "GMS|Michelle.Meuse",
+       "system": "Ile-de-France",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "49m",
+       "name": "-=JoSch=-",
+       "system": "Munich",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "46m",
+       "name": "GMG|Karaji.Maru",
+       "system": "Sigma-59",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "44m",
+       "name": "KTS-Kaulitz",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "41m",
+       "name": "CBS-Yondaime",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "32m",
+       "name": "Gregor_Eisenhorn",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "32m",
+       "name": "Clockwork.Wizards",
+       "system": "Omega-11",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "31m",
+       "name": "FlyingSaucer",
+       "system": "Omega-48",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "31m",
+       "name": "Nu0027Sari",
+       "system": "Omicron Delta",
+       "region": "Nomad Worlds"
+      },
+      {
+       "time": "30m",
+       "name": "CNSu003EAndalucia",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "26m",
+       "name": "46th|Callum.Hayes",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "26m",
+       "name": "Isabel.Garcia-Lopez",
+       "system": "Omega-5",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "24m",
+       "name": "LNS-Ysaac.Loneshine",
+       "system": "Vespucci",
+       "region": "Independent Worlds"
+      },
+      {
+       "time": "23m",
+       "name": "GC-Komadori",
+       "system": "Tau-37",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "23m",
+       "name": "Aki.Sakura",
+       "system": "Shikoku",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "20m",
+       "name": "GC-Kuzuri",
+       "system": "Tau-23",
+       "region": "Tau Border Worlds"
+      },
+      {
+       "time": "19m",
+       "name": ".:j:.Deadpool",
+       "system": "New York",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "17m",
+       "name": "BD-Voidfox",
+       "system": "Okinawa",
+       "region": "Sigma Border Worlds"
+      },
+      {
+       "time": "14m",
+       "name": "Tau.01",
+       "system": "Leeds",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "8m",
+       "name": "RNS-Tavaraux",
+       "system": "Picardy",
+       "region": "Gallia Space"
+      },
+      {
+       "time": "7m",
+       "name": "ORDER!",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "7m",
+       "name": "Jerry.Anderson",
+       "system": "Connecticut",
+       "region": "Uncharted Space"
+      },
+      {
+       "time": "6m",
+       "name": "Insure|Springs.Falls",
+       "system": "New London",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "6m",
+       "name": "GC-Aisufurawa",
+       "system": "Kyushu",
+       "region": "Kusari Space"
+      },
+      {
+       "time": "5m",
+       "name": "Tate.Henderson",
+       "system": "Cambridge",
+       "region": "Bretonia Space"
+      },
+      {
+       "time": "5m",
+       "name": "DTR-CNSu003ETwilight",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "5m",
+       "name": "Lamorak",
+       "system": "Omega-3",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "4m",
+       "name": "Pomodoro0412",
+       "system": "Texas",
+       "region": "Liberty Space"
+      },
+      {
+       "time": "4m",
+       "name": "DTR-CNSu003EPedro",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "3m",
+       "name": "Winston.Wallace",
+       "system": "Omega-3",
+       "region": "Omega Border Worlds"
+      },
+      {
+       "time": "2m",
+       "name": "[RM]KKS-Greifenstein",
+       "system": "New Berlin",
+       "region": "Rheinland Space"
+      },
+      {
+       "time": "2m",
+       "name": "DTR-CNSu003ECimitarra",
+       "system": "Omicron Xi",
+       "region": "South Edge Worlds"
+      },
+      {
+       "time": "1m",
+       "name": "Xennex",
+       "system": "Colorado",
+       "region": "Liberty Space"
+      }
+     ],
+     "timestamp": "2023-05-07T19:09:01"
+    }
+   ]

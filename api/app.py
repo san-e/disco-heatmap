@@ -9,7 +9,7 @@ app = Flask(__name__)
 def index():
     return current_app.send_static_file("index.html")
 
-@app.route("/playerAPI")
+@app.route("/player-api")
 def api():
     def scrapePlayerlist():
             url = "https://discoverygc.com/forums/api_interface.php?action=players_online"
@@ -18,7 +18,7 @@ def api():
             }
             r = requests.get(url, cookies=cookies)
             if "You are either not logged in or do not have permission to view this page." in r.text:
-                playerJSON = "{}"
+                playerJSON = '{"error": "Couldn\'t get playerlist: Invalid login token"}'
             else:
                 playerJSON = r.text.split('var json_data = JSON.parse("')[1].split('");</script>')[0].replace("\\", "")
             return json.loads(playerJSON)

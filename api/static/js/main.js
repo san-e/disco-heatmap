@@ -5,7 +5,7 @@ function posToPercentage(pos) {
   return (pos * 6.6 - 50).toFixed(2);
 }
 
-async function getJsonFile(url) {
+async function getJsonData(url) {
   let response = await fetch(url);
   
   let commits = await response.json();
@@ -13,11 +13,9 @@ async function getJsonFile(url) {
 }
 
 
-
-const systemArray = await getJsonFile("../static/data/systemArray.json");
-const oorpSystems = await getJsonFile("../static/data/oorpSystems.json");
-const sysNameToNickname = await getJsonFile("../static/data/sysNameToNickname.json");
-const players = await getJsonFile("../static/data/playerlist.json");
+const systemArray = await getJsonData("../static/data/systemArray.json");
+const oorpSystems = await getJsonData("../static/data/oorpSystems.json");
+const sysNameToNickname = await getJsonData("../static/data/sysNameToNickname.json");
 
 // const elem = document.querySelector(".grid");
 // const panzoom = Panzoom(elem, {
@@ -30,14 +28,14 @@ const players = await getJsonFile("../static/data/playerlist.json");
 
 // elem.parentElement.addEventListener("wheel", panzoom.zoomWithWheel);
 
-window.intervall = 1_000;
-const input = document.querySelector("#deine-mutter");
-input.value = 1_000;
-input.onchange = function() {
-  window.intervall = input.value;
-  clearInterval(update);
-  update = setInterval(updateHeatmap, window.intervall)
-};
+window.intervall = 60_000;
+// const input = document.querySelector("#deine-mutter");
+// input.value = window.intervall;
+// input.onchange = function() {
+//   window.intervall = input.value;
+//   clearInterval(update);
+//   update = setInterval(updateHeatmap, window.intervall)
+// };
 
 function highlight(element) {
   var className = element.className;
@@ -155,17 +153,20 @@ function drawConnections() {
 }
 
 function initzializeHeatmap() {
-  // minimal heatmap instance configuration
-  window.heatmapInstance = h337.create({
-    // only container is required, the rest will be defaults
-    container: document.querySelector(".heatmap")
+  var heatmapInstance = h337.create({
+    container: document.querySelector(".heatmap"),
+    blur: .85,
+    radius: 80
   });
+
+  return heatmapInstance
 }
 
-function getSystemPlayercount() {
-  var playerlist = players[window.i]["players"];
-  var timestamp = players[window.i]["timestamp"]
-  var systemCounts = {};
+async function getSystemPlayercount() {
+  let players = await getJsonData("../player-api")
+  let playerlist = players["players"];
+  let timestamp = players["timestamp"]
+  let systemCounts = {};
 
   playerlist.forEach(player => {
     const system = player["system"];
@@ -175,13 +176,11 @@ function getSystemPlayercount() {
     systemCounts[sysNameToNickname[system]]++;
   });
 
-  window.i++;
-  if (window.i > 29) {window.i = 0}
   return [systemCounts, timestamp];
   }
 
-function updateHeatmap() {
-  const amogus = getSystemPlayercount()
+async function updateHeatmap() {
+  const amogus = await getSystemPlayercount()
   const playercount = amogus[0];
   const timestamp = amogus[1];
   var datapoints = [];
@@ -209,18 +208,11 @@ function updateHeatmap() {
   document.getElementById("timestamp").innerHTML = timestamp
 }
 
-window.i = 0
 
 populateSystems();
 drawConnections();
-//initzializeHeatmap();
+var heatmapInstance = initzializeHeatmap();
 
-var heatmapInstance = h337.create({
-  container: document.querySelector(".heatmap"),
-  blur: .85,
-  radius: 80
-});
-
-updateHeatmap();
+await updateHeatmap();
 var update = setInterval(updateHeatmap, window.intervall);
 

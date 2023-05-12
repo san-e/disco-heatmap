@@ -13,6 +13,12 @@ async function getJsonData(url) {
 }
 
 
+/* https://stackoverflow.com/a/25490531 */
+function getCookie(a, b) {
+  b = document.cookie.match('(^|;)\\s*' + a + '\\s*=\\s*([^;]+)');
+  return b ? b.pop() : '';
+}
+
 const systemArray = await getJsonData("../static/data/systemArray.json");
 const oorpSystems = await getJsonData("../static/data/oorpSystems.json");
 const sysNameToNickname = await getJsonData("../static/data/sysNameToNickname.json");
@@ -211,12 +217,19 @@ window.intervall = 60_000;
 window.maxValue = 1
 
 const maxValSlider = document.getElementById("value-range");
+if (getCookie("maxVal")) {
+  maxValSlider.value = parseInt(getCookie("maxVal"));
+  window.maxValue = parseInt(getCookie("maxVal"));
+};
 maxValSlider.oninput = function() {
-  window.maxValue = maxValSlider.value / 100
+  window.maxValue = maxValSlider.value / 100;
 };
 
 const updateButton = document.getElementById("update-button");
-updateButton.onclick = updateHeatmap;
+updateButton.onclick = function(){
+  updateHeatmap();
+  document.cookie = "maxVal=" + (window.maxValue * 100);
+};
 
 populateSystems();
 drawConnections();

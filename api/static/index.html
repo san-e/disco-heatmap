@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <title>Discovery Heatmap</title>
+    <link rel="icon" type="image/gif" href="static/img/flame.gif">
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="A heatmap of players on the Discovery Freelancer server.">
     <script type="module" src="static/js/main.js" defer></script>
@@ -9,7 +10,14 @@
   </head>
   <body class="responsive">
     <div id="timestamp"></div>
-    <div class="settingsContainer"></div>
+    <div class="settingsContainer">
+      <div id="max-value">
+        <span style="padding-left: 1em;">Max. Value </span><input type="range" min="1" max="500" value="100" class="slider" id="value-range">
+      </div>
+      <div id="update-heatmap">
+        <button class="button" id="update-button">Update Heatmap</button>
+      </div>
+    </div>
     <div class="mapContainer">
       <div class="map">
         <div class="grid">

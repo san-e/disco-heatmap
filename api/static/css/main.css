@@ -18,6 +18,48 @@ html {
   bottom: 0;
 }
 
+.settingsContainer {
+	/* height: 2em; */
+  width: 100%;
+	/* vertical-align: center; */
+	position: absolute;
+	top: 0em;
+  left: 0em;
+	/* text-align: center; */
+	color: white;
+	font-family: "Agency FB", "Oswald", sans-serif;
+	/* margin: 0 auto; */
+  box-sizing: border-box;
+	border: 0.2em solid rgb(30, 166, 197);
+	z-index: 99;
+	background: url(../img/nnwall.avif) black;
+	padding: 0;
+	line-height: 2em;
+  display: inline-flex;
+  justify-content: space-between;
+}
+
+#max-value {
+  display: flex;
+}
+
+#update-heatmap {
+  display: inline-flex;
+  /* width: 50%; */
+  padding-right: 1em;
+  align-items: center;
+}
+
+.button {
+  display: inline-flex;
+  position: relative;
+}
+
+.slider {
+  position: relative;
+  left: 1em;
+}
+
 .grid {
   width: 100%;
   height: 100%;

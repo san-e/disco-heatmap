@@ -28,7 +28,6 @@ const sysNameToNickname = await getJsonData("../static/data/sysNameToNickname.js
 
 // elem.parentElement.addEventListener("wheel", panzoom.zoomWithWheel);
 
-window.intervall = 60_000;
 // const input = document.querySelector("#deine-mutter");
 // input.value = window.intervall;
 // input.onchange = function() {
@@ -193,7 +192,7 @@ async function updateHeatmap() {
     var datapoint = {
       x: x + Math.floor(Math.random()-0.5) * count,
       y: y + Math.floor(Math.random()-0.5) * count,
-      value: count
+      value: count * window.maxValue
     };
     datapoints.push(datapoint)
   })
@@ -208,6 +207,16 @@ async function updateHeatmap() {
   document.getElementById("timestamp").innerHTML = timestamp
 }
 
+window.intervall = 60_000;
+window.maxValue = 1
+
+const maxValSlider = document.getElementById("value-range");
+maxValSlider.oninput = function() {
+  window.maxValue = maxValSlider.value / 100
+};
+
+const updateButton = document.getElementById("update-button");
+updateButton.onclick = updateHeatmap;
 
 populateSystems();
 drawConnections();

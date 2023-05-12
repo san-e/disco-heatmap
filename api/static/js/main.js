@@ -1,5 +1,9 @@
-import "./heatmap.js";
+//import "./heatmap.js";
 //import "./panzoom.min.js";
+
+"use strict;"
+
+async function a(){
 
 function posToPercentage(pos) {
   return (pos * 6.6 - 50).toFixed(2);
@@ -238,3 +242,6 @@ var heatmapInstance = initzializeHeatmap();
 await updateHeatmap();
 var update = setInterval(updateHeatmap, window.intervall);
 
+}
+
+a();

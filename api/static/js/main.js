@@ -227,7 +227,7 @@ const updateButton = document.getElementById("update-button");
 updateButton.onclick = function(){
   updateHeatmap();
   document.cookie = "maxVal=; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; domain='" + location.host;
-  document.cookie = "maxVal=" + (window.maxValue * 100);
+  document.cookie = "maxVal=" + (window.maxValue+1 * 100);
 };
 
 populateSystems();

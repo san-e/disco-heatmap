@@ -24,6 +24,6 @@ def api():
                 systems[sysToNickname[player.get("system")]] += 1
 
 
-            return jsonify({"playercount": systems, "total": sum(dict(systems).keys()), "timestamp": r.json().get("timestamp")})
+            return jsonify({"playercount": systems, "total": sum(dict(systems).values()), "timestamp": r.json().get("timestamp")})
     
     return getPlayerlist()

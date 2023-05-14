@@ -1,4 +1,5 @@
 from flask import Flask, current_app
+from collections import defaultdict
 import json
 import requests
 import os
@@ -11,16 +12,15 @@ def index():
 
 @app.route("/player-api")
 def api():
-    def scrapePlayerlist():
-            url = "https://discoverygc.com/forums/api_interface.php?action=players_online"
-            cookies = {
-            "mybbuser": os.environ.get("mybbuser"),
-            }
-            r = requests.get(url, cookies=cookies)
-            if "You are either not logged in or do not have permission to view this page." in r.text:
-                playerJSON = '{"error": "Couldn\'t get playerlist: Invalid login token"}'
-            else:
-                playerJSON = r.text.split('var json_data = JSON.parse("')[1].split('");</script>')[0].replace("\\", "")
-            return json.loads(playerJSON)
+    def getPlayerlist():
+            url = f"https://api.discoverygc.com/api/Online/GetPlayers/{os.environ.get('discovery_api_key')}"
+            r = requests.get(url)
+
+            systems = defaultdict(int)
+            for player in r.json().get("players"):
+                systems[player.get("system")] += 1
+
+
+            return json.dumps(systems)
     
-    return scrapePlayerlist()
+    return getPlayerlist()

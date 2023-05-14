@@ -173,24 +173,15 @@ function initzializeHeatmap() {
 
 async function getSystemPlayercount() {
   let players = await getJsonData("../player-api")
-  let playerlist = players["players"];
+  let systemCounts= players["playercount"];
   let timestamp = players["timestamp"]
-  let systemCounts = {};
-
-  playerlist.forEach(player => {
-    const system = player["system"];
-    if (!systemCounts[sysNameToNickname[system]]) {
-      systemCounts[sysNameToNickname[system]] = 0;
-    }
-    systemCounts[sysNameToNickname[system]]++;
-  });
 
   return [systemCounts, timestamp];
   }
 
 async function updateHeatmap() {
   const amogus = await getSystemPlayercount()
-  const playercount = amogus[0];
+  const playercount = amogus["0"];
   const timestamp = amogus[1];
   var datapoints = [];
   Object.keys(playercount).forEach(system => {
@@ -200,8 +191,8 @@ async function updateHeatmap() {
     var y = parseFloat(getPos(document.getElementById(system)).top) + 7;
 
     var datapoint = {
-      x: x + Math.floor(Math.random()-0.5) * count,
-      y: y + Math.floor(Math.random()-0.5) * count,
+      x: x + Math.floor(Math.random()-0.5) * (count / 5),
+      y: y + Math.floor(Math.random()-0.5) * (count / 5),
       value: count * window.maxValue
     };
     datapoints.push(datapoint)

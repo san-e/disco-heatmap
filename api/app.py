@@ -1,10 +1,13 @@
-from flask import Flask, current_app
-from collections import defaultdict
+from flask import Flask, current_app, jsonify
 import json
+from collections import defaultdict
 import requests
 import os
 
 app = Flask(__name__)
+
+with open("./static/data/sysNameToNickname.json") as f:
+    sysToNickname = json.load(f)
 
 @app.route("/")
 def index():
@@ -18,9 +21,9 @@ def api():
 
             systems = defaultdict(int)
             for player in r.json().get("players"):
-                systems[player.get("system")] += 1
+                systems[sysToNickname[player.get("system")]] += 1
 
 
-            return json.dumps(systems)
+            return jsonify({"playercount": systems, "timestamp": r.json().get("timestamp")})
     
     return getPlayerlist()

@@ -226,6 +226,7 @@ maxValSlider.oninput = function() {
 const updateButton = document.getElementById("update-button");
 updateButton.onclick = function(){
   updateHeatmap();
+  document.cookie = "maxVal=";
   document.cookie = "maxVal=" + (window.maxValue * 100);
 };
 

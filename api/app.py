@@ -6,8 +6,8 @@ import os
 
 app = Flask(__name__)
 
-# with open("./static/data/sysNameToNickname.json") as f:
-#     sysToNickname = json.load(f)
+with open("./sysNameToNickname.json") as f:
+    sysToNickname = json.load(f)
 
 @app.route("/")
 def index():
@@ -21,7 +21,7 @@ def api():
 
             systems = defaultdict(int)
             for player in r.json().get("players"):
-                systems[player.get("system")] += 1
+                systems[sysToNickname[player.get("system")]] += 1
 
 
             return jsonify({"playercount": systems, "timestamp": r.json().get("timestamp")})

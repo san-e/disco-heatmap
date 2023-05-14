@@ -6,7 +6,7 @@ import os
 
 app = Flask(__name__)
 
-with open("./sysNameToNickname.json") as f:
+with open("./api/sysNameToNickname.json") as f:
     sysToNickname = json.load(f)
 
 @app.route("/")

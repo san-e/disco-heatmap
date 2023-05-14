@@ -175,14 +175,16 @@ async function getSystemPlayercount() {
   let players = await getJsonData("../player-api")
   let systemCounts= players["playercount"];
   let timestamp = players["timestamp"]
+  let total = players["total"]
 
-  return [systemCounts, timestamp];
+  return [systemCounts, timestamp, total];
   }
 
 async function updateHeatmap() {
   const amogus = await getSystemPlayercount()
-  const playercount = amogus["0"];
+  const playercount = amogus[0];
   const timestamp = amogus[1];
+  const total = amogus[2];
   var datapoints = [];
   Object.keys(playercount).forEach(system => {
     const count = playercount[system];
@@ -206,6 +208,7 @@ async function updateHeatmap() {
 
   heatmapInstance.setData(data)
   document.getElementById("timestamp").innerHTML = timestamp
+  document.getElementById("total-players").innerHTML = "Total Players: " + total
 }
 
 window.intervall = 60_000;

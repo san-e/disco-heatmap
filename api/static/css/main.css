@@ -39,6 +39,17 @@ html {
   justify-content: space-between;
 }
 
+.bottom-text {
+  color: white;
+  font-family: Agency FB;
+  position: absolute;
+  bottom: 1%;
+}
+
+#total-players {
+  right: 1%;
+}
+
 #max-value {
   display: flex;
 }

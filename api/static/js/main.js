@@ -114,7 +114,7 @@ function populateSystems() {
       unhighlight(this);
     };
     system.onclick = function () {
-      getPos(this);
+      console.log(getPos(this));
     };
     var systemLabel = document.createElement("label");
     systemLabel.className = "systemLabel";
